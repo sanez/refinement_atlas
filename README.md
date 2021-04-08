@@ -6,4 +6,4 @@ http://www.psychiatry.univr.it/refinement/atlas/atlas.html
 ### Screenshots:
 
 ![Desktop](https://github.com/sanez/refinement_atlas/blob/master/Refinement%20web%20Atlas1.png)
-![Desktop](http://sanez.github.io/refinement_atlas/Refinement web Atlas2.png)
+![Desktop](https://github.com/sanez/refinement_atlas/blob/master/Refinement web Atlas2.png)
